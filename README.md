@@ -1,26 +1,16 @@
-## Gerente de Desenvolvimento · Kaizen Solutions
+<a href="#sobre-minha-atuação"><img src="assets/profile-dark.svg?v=5" alt="Lucas Alves Correa — liderança técnica, arquitetura e desenvolvimento. Cobrinha animada no calendário de contribuições." width="100%"></a>
 
-Atuo na liderança da equipe e no desenvolvimento de software, conectando decisões de arquitetura, prioridades de produto e necessidades do negócio.
+<details>
+<summary><b>Mais sobre minha atuação</b></summary>
 
-### Minha atuação
+### Sobre minha atuação
 
-- **Liderança técnica e entregas:** acompanhamento da equipe, priorização de demandas, revisão de código e alinhamento com suporte e testes.
+- **Liderança técnica e entregas:** acompanhamento da equipe, priorização de demandas e alinhamento com suporte e testes.
 - **Arquitetura e modernização:** evolução de aplicações existentes, organização de serviços e migração entre tecnologias.
 - **Desenvolvimento e integração:** serviços backend, aplicações web e mobile, APIs e comunicação entre sistemas.
-- **Qualidade e desempenho:** investigação de problemas, análise de consultas SQL, consistência dos dados e testes automatizados.
-- **Automação de entregas:** acompanhamento de builds e integração contínua com GitHub Actions.
+- **Qualidade e desempenho:** revisão de código, investigação de problemas, análise de consultas SQL e consistência dos dados.
+- **Automação e testes:** acompanhamento de builds, integração contínua com GitHub Actions, JUnit e Vitest.
 
-### Tecnologias
-
-**Java · Spring Boot · Go · TypeScript · React · Next.js · PostgreSQL**  
-Também trabalho com JPA/Hibernate, Angular/Ionic, Cordova, SQL, gRPC, Maven, JUnit e Vitest.
-
-### Contribuições em movimento
-
-[Jogar cobrinha →](https://lucasalv.github.io/lucasalv/)
-
-Jogo com controle pelas setas, modo automático e velocidade progressiva, inspirado no calendário público de contribuições.
-
----
+</details>
 
 Goiânia, Brasil · [Kaizen Solutions](https://github.com/kaizensolutions-ti)
