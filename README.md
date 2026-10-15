@@ -1,8 +1,5 @@
-<a href="#experiência"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
-  <img src="assets/profile-light.svg" alt="Lucas Alves Correa — Gerente de Desenvolvimento na Kaizen Solutions. Liderança técnica, arquitetura e desenvolvimento de software." width="100%">
-</picture></a>
+<a href="#experiência"><img src="assets/profile-dark.svg#gh-dark-mode-only" alt="Lucas Alves Correa — liderança técnica, arquitetura e desenvolvimento" width="100%"></a>
+<a href="#experiência"><img src="assets/profile-light.svg#gh-light-mode-only" alt="Lucas Alves Correa — liderança técnica, arquitetura e desenvolvimento" width="100%"></a>
 
 <details>
 <summary>Experiência e tecnologias — versão em texto</summary>
