@@ -1,32 +1,16 @@
-# Lucas Alves Correa
+<p align="center"><img src="assets/engineering.svg" alt="Lucas Alves Correa — Gerente de Desenvolvimento, liderança técnica e arquitetura" width="100%" /></p>
 
-### Gerente de Desenvolvimento | Liderança Técnica | Engenharia de Software
+### Liderança técnica com atuação no código.
 
-Sou gerente de desenvolvimento na [Kaizen Solutions](https://github.com/kaizensolutions-ti), com atuação prática em arquitetura e desenvolvimento de software. Conecto pessoas, decisões técnicas e necessidades de negócio para evoluir produtos e conduzir entregas.
+Sou **Gerente de Desenvolvimento na Kaizen Solutions**. Lidero a equipe e atuo em arquitetura, modernização de aplicações e desenvolvimento backend, web e mobile.
 
-## Como atuo
+### Experiência
 
-- **Liderança de engenharia:** acompanhamento da equipe, priorização técnica, revisão de código e colaboração com suporte e testes.
-- **Arquitetura e modernização:** evolução de aplicações existentes, organização de serviços e adoção de tecnologias conforme as necessidades do produto.
-- **Desenvolvimento de ponta a ponta:** aplicações web e mobile, serviços backend e integração entre sistemas.
-- **Qualidade e desempenho:** investigação de problemas, consistência de dados, testes automatizados e melhoria contínua das entregas.
+**Gerente de Desenvolvimento · Kaizen Solutions**
 
-Minha atuação combina gestão de desenvolvimento com participação nas decisões de arquitetura e no código.
+- Liderança da equipe de desenvolvimento e acompanhamento de entregas.
+- Definição de soluções técnicas, revisão de código e modernização de aplicações.
+- Desenvolvimento de serviços backend, aplicações web e mobile e integrações entre sistemas.
+- Colaboração com suporte e testes na investigação de problemas e evolução dos produtos.
 
-## Tecnologias
-
-| Área | Tecnologias |
-| --- | --- |
-| Backend | Java, Spring Boot, JPA/Hibernate, Go |
-| Frontend | TypeScript, React, Next.js, Tailwind CSS |
-| Mobile | Angular, Ionic, Cordova |
-| Dados e integração | PostgreSQL, SQL, gRPC |
-| Qualidade e entrega | Git, GitHub Actions, Maven, JUnit, Vitest |
-
-## O que valorizo
-
-Clareza na comunicação, colaboração entre áreas e soluções que possam evoluir com segurança. Busco equilibrar as necessidades do negócio com qualidade técnica e manutenção sustentável.
-
----
-
-📍 Goiânia, Brasil · [Kaizen Solutions](https://github.com/kaizensolutions-ti)
+**Goiânia, Brasil** · [Kaizen Solutions](https://github.com/kaizensolutions-ti)
