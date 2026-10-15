@@ -1,5 +1,4 @@
-<a href="#experiência"><img src="assets/profile-dark.svg#gh-dark-mode-only" alt="Lucas Alves Correa — liderança técnica, arquitetura e desenvolvimento" width="100%"></a>
-<a href="#experiência"><img src="assets/profile-light.svg#gh-light-mode-only" alt="Lucas Alves Correa — liderança técnica, arquitetura e desenvolvimento" width="100%"></a>
+<a href="#experiência"><img src="assets/profile-dark.svg?v=4" alt="Lucas Alves Correa — liderança técnica, arquitetura e desenvolvimento" width="100%"></a>
 
 <details>
 <summary>Experiência e tecnologias — versão em texto</summary>
