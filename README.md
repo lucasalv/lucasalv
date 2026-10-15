@@ -1,16 +1,26 @@
-<a href="#experiência"><img src="assets/profile-dark.svg?v=4" alt="Lucas Alves Correa — liderança técnica, arquitetura e desenvolvimento" width="100%"></a>
+## Gerente de Desenvolvimento · Kaizen Solutions
 
-<details>
-<summary>Experiência e tecnologias — versão em texto</summary>
+Atuo na liderança da equipe e no desenvolvimento de software, conectando decisões de arquitetura, prioridades de produto e necessidades do negócio.
 
-### Experiência
+### Minha atuação
 
-**Gerente de Desenvolvimento · Kaizen Solutions**
+- **Liderança técnica e entregas:** acompanhamento da equipe, priorização de demandas, revisão de código e alinhamento com suporte e testes.
+- **Arquitetura e modernização:** evolução de aplicações existentes, organização de serviços e migração entre tecnologias.
+- **Desenvolvimento e integração:** serviços backend, aplicações web e mobile, APIs e comunicação entre sistemas.
+- **Qualidade e desempenho:** investigação de problemas, análise de consultas SQL, consistência dos dados e testes automatizados.
+- **Automação de entregas:** acompanhamento de builds e integração contínua com GitHub Actions.
 
-Liderança da equipe e acompanhamento de entregas. Arquitetura, modernização de aplicações, revisão de código e desenvolvimento backend, web e mobile. Colaboração com suporte e testes na evolução dos produtos.
+### Tecnologias
 
-Java, Spring Boot, Go, JPA/Hibernate, TypeScript, React, Next.js, Angular/Ionic, Cordova, PostgreSQL, SQL, gRPC, GitHub Actions, Maven, JUnit e Vitest.
+**Java · Spring Boot · Go · TypeScript · React · Next.js · PostgreSQL**  
+Também trabalho com JPA/Hibernate, Angular/Ionic, Cordova, SQL, gRPC, Maven, JUnit e Vitest.
 
-</details>
+### Contribuições em movimento
 
-[Goiânia, Brasil · Kaizen Solutions](https://github.com/kaizensolutions-ti)
+[Jogar cobrinha →](https://lucasalv.github.io/lucasalv/)
+
+Jogo com controle pelas setas, modo automático e velocidade progressiva, inspirado no calendário público de contribuições.
+
+---
+
+Goiânia, Brasil · [Kaizen Solutions](https://github.com/kaizensolutions-ti)
