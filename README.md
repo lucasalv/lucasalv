@@ -1,4 +1,4 @@
-<a href="#sobre-minha-atuação"><img src="assets/profile-dark.svg?v=5" alt="Lucas Alves Correa — liderança técnica, arquitetura e desenvolvimento. Cobrinha animada no calendário de contribuições." width="100%"></a>
+<a href="#sobre-minha-atuação"><img src="assets/profile-dark.svg?v=6" alt="Lucas Alves Correa — liderança técnica, arquitetura e desenvolvimento. Cobrinha animada no calendário de contribuições." width="100%"></a>
 
 <details>
 <summary><b>Mais sobre minha atuação</b></summary>
